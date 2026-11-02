@@ -1,0 +1,11 @@
+[
+  {
+    "id": "derivative-001",
+    "topic": "Derivatives",
+    "kind": "derivation",
+    "question": "Derive the derivative of x² using the limit definition.",
+    "answer": "lim as h → 0 of ((x+h)²−x²)/h = lim as h → 0 of (2x+h) = 2x.",
+    "source": "Manually authored example; verify against your course's derivative definition",
+    "hints": ["Expand (x+h)² and cancel x² before dividing by h."]
+  }
+]
